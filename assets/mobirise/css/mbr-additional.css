@@ -1,12 +1,27 @@
-#ext_menu-3 .mbr-brand__name {
+#menu-5 .mbr-brand__name {
   font-size: 16px;
 }
-#ext_menu-3.mbr-navbar--stuck .mbr-navbar__section {
+#menu-5.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
-#ext_menu-3 .mbr-navbar__section {
+#menu-5 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-d .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-d.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
-#ext_menu-3 .mbr-navbar__hamburger {
+#menu-d .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-i .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-i .mbr-navbar__hamburger {
   color: #ffffff;
 }
