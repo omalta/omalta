@@ -7,6 +7,9 @@
 #menu-5 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#contacts3-b STRONG {
+  text-align: center;
+}
 #menu-d .mbr-brand__name {
   font-size: 16px;
 }
@@ -16,6 +19,9 @@
 #menu-d .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#contacts3-g STRONG {
+  text-align: center;
+}
 #menu-i .mbr-brand__name {
   font-size: 16px;
 }
@@ -24,4 +30,19 @@
 }
 #menu-i .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#contacts3-l STRONG {
+  text-align: center;
+}
+#menu-n .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-n.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-n .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#contacts3-p STRONG {
+  text-align: center;
 }
